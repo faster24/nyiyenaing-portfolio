@@ -1,0 +1,149 @@
+{
+  "main": {
+    "name":"I'm Nyi Ye Naing.",
+    "description":"I am a web development engineer and I use Laravel and Node.js to develop web applications.",
+    "image":"profile.jpg",
+    "bio":"I'm web developer who passionate to learn new technologies and also founder of IT Club in TU (Meiktila). Currently I build web applications as much as I could for working experiences. I love to travel and lead a fairly nomadic lifestyle. I love to create and tend to keep a few too many projects on the go at a time. ",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "guesszero24@gmail.com",
+    "phone": "09-9779-157-20",
+    "github":"https://github.com/faster24",
+    "facebook": "https://www.facebook.com/profile.php?id=100014951477888",
+    "gmail": "guesszero24@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nyi-ye-naing-0509221b1",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://www.mediafire.com/file/c7wb6bbdxcop6cg/Resume%25281%2529.docx/file",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/profile.php?id=100014951477888",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"gmail",
+        "url":"guesszero24@gmail.com",
+        "className":"fa fa-envelope"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/nyi-ye-naing-0509221b1/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/faster24",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "git": "profilepic.jpg" ,
+    "education":[
+      {
+        "school":"Technological University (Meiktila)",
+        "degree":"Bechelor of Enginnering",
+        "graduated":"December 2017 - Present",
+        "description":""
+      },
+      {
+        "school":"Fairway Technology",
+        "degree":"Professional Web Development Certificate",
+        "graduated":"March 2018",
+        "description":""
+      },
+      {
+        "school":"Coursera",
+        "degree":"React.js Certificate",
+        "graduated":"October 2020",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Opensource Git Projects",
+        "title":"I had been doing more Projects for finding opportunity with the help of Git opensource projects.",
+        "years":"December 2019 - Present",
+        "description":""
+      },
+      {
+        "company":"Experience in Team Projects",
+        "title":"In University , I was participated in Project shows and team projects.",
+        "years":"",
+        "description":""
+      },
+      {
+        "company":"Experience in Teaching Programming",
+        "title":"I've experience in using online education tools and teaching programming to juniors at colleage. I have strong knowledge of programming fundamentals.",
+        "years":"",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"VueJs",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Swift",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"React chat application",
+        "category":"Chat-App",
+        "image":"chat.jpg",
+        "url":"https://keen-mccarthy-1acc79.netlify.app"
+      },
+      {
+        "title":"React E-commerce UI",
+        "category":"(offline now) A E-commerce UI",
+        "image":"ecommerce.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Movie Application",
+        "category":"",
+        "image":"movie-app.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"MERN Stack Application",
+        "category":"A React based resume website template",
+        "image":"memories.jpg",
+        "url":"http://www.timbakerdev.com"
+      }
+     
+    ]
+  }
+}
