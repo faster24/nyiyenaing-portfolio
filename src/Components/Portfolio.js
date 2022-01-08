@@ -128,7 +128,7 @@ class Portfolio extends Component {
                         component="img"
                         alt="green iguana"
                         height="140"
-                        image="images/portfolio/portfolio.png"
+                        image="images/portfolio/portfolio-pic.png"
                         sx={{ height: 200 }}
                       />
                       <CardContent sx={{ height: 100 }}>
