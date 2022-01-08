@@ -1,7 +1,7 @@
 {
   "name": "reactniceresume",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "./",
   "dependencies": {
     "@emotion/react": "^11.7.1",
@@ -28,6 +28,11 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+
+  "engines": {
+    "node": "17.3.0"
+  },
+
   "eslintConfig": {
     "extends": [
       "react-app",
